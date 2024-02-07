@@ -95,6 +95,9 @@ router.get('/get-cuadre/last', async (req, res) => {
           hora: '',
         },
         Montos: [
+          { monto: 1000, cantidad: '', total: 0 },
+          { monto: 500, cantidad: '', total: 0 },
+          { monto: 200, cantidad: '', total: 0 },
           { monto: 100, cantidad: '', total: 0 },
           { monto: 50, cantidad: '', total: 0 },
           { monto: 20, cantidad: '', total: 0 },
