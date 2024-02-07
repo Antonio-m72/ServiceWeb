@@ -1,5 +1,5 @@
 export const secretKey = 'tu_clave_secreta';
-export const timeZone = 'America/Cancun';
+export const timeZone = 'America/Merida';
 export const reportePrendas = ['Ropa x Kilo', 'Edredon', 'Toallas', 'Zapatillas', 'Cortinas', 'Otros'];
 
 export const prendasPorDefecto = [
