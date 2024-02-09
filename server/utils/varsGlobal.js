@@ -5,31 +5,95 @@ export const reportePrendas = ['Ropa x Kilo', 'Edredon', 'Toallas', 'Zapatillas'
 export const prendasPorDefecto = [
   {
     name: 'Delivery',
-    price: '4.5',
+    price: '50',
   },
   {
     name: 'Ropa x Kilo',
-    price: '5.8',
+    price: '30',
   },
   {
     name: 'Toalla',
-    price: '7',
+    price: '50',
   },
   {
-    name: 'Chamarra', // Casaca
-    price: '8',
+    name: 'Chamarra',
+    price: '40',
   },
   {
-    name: 'Tenis', // Zapatillas
-    price: '9',
+    name: 'Tenis',
+    price: '120',
   },
   {
-    name: 'Lavado a Mano',
-    price: '9',
+    name: 'Desmanchado a Mano',
+    price: '30',
+  },
+  {
+    name: 'Edredon Matrimonial',
+    price: '',
+  },
+  {
+    name: 'Edredon Queen',
+    price: '',
+  },
+  {
+    name: 'Cobertor Ind',
+    price: '',
+  },
+  {
+    name: 'Cobertor Mat',
+    price: '',
+  },
+  {
+    name: 'Cobertor Queen',
+    price: '',
+  },
+  {
+    name: 'Cobertor King',
+    price: '',
+  },
+  {
+    name: 'Planchado por Docena',
+    price: '',
+  },
+  {
+    name: 'Planchado por Pieza',
+    price: '',
+  },
+  {
+    name: 'Gancho Metalico',
+    price: '',
+  },
+  {
+    name: 'Edredon de Pluma/Grueso',
+    price: '',
+  },
+  {
+    name: 'Lavado 10kg',
+    price: '',
+  },
+  {
+    name: 'Secado 10kg',
+    price: '',
+  },
+  {
+    name: 'Autosevicio Lavado 10kg',
+    price: '',
+  },
+  {
+    name: 'Autosevicio Lavado 18kg',
+    price: '',
+  },
+  {
+    name: 'Vestido Largos',
+    price: '',
+  },
+  {
+    name: 'Trajes de 2 Piezas',
+    price: '',
   },
   {
     name: 'Hamaca',
-    price: '9',
+    price: '40',
   },
   {
     name: 'Sabanas',
@@ -44,11 +108,7 @@ export const prendasPorDefecto = [
     price: '9',
   },
   {
-    name: 'Peluche',
-    price: '9',
-  },
-  {
-    name: 'Playera', // Polo
+    name: 'Playera',
     price: '4',
   },
   {
@@ -60,7 +120,7 @@ export const prendasPorDefecto = [
     price: '4',
   },
   {
-    name: 'Sobrecama', // Cubrecama
+    name: 'Sobrecama',
     price: '14',
   },
   {
@@ -76,7 +136,7 @@ export const prendasPorDefecto = [
     price: '10',
   },
   {
-    name: 'Gabardina', // Abrigo
+    name: 'Gabardina',
     price: '100',
   },
   {
@@ -85,27 +145,26 @@ export const prendasPorDefecto = [
   },
   {
     name: 'Almohada',
-    price: '8',
+    price: '',
   },
   {
     name: 'Frazada',
-    price: '18',
+    price: '120',
   },
-
   {
     name: 'Edredon',
-    price: '10',
+    price: '120',
   },
   {
     name: 'Cobertor',
-    price: '19',
+    price: '120',
   },
   {
     name: 'Cortinas',
-    price: '5',
+    price: '40',
   },
   {
     name: 'Tapete',
-    price: '10',
+    price: '40',
   },
 ];
