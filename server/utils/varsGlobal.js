@@ -68,19 +68,19 @@ export const prendasPorDefecto = [
     price: '',
   },
   {
-    name: 'Autosevicio de Lavado 10kg',
+    name: 'Lavado 10kg',
     price: '',
   },
   {
-    name: 'Autosevicio de Secado 10kg',
+    name: 'Secado 10kg',
     price: '',
   },
   {
-    name: 'Autosevicio de Lavado 18kg',
+    name: 'Lavado 18kg',
     price: '',
   },
   {
-    name: 'Autosevicio de Secado 18kg',
+    name: 'Secado 18kg',
     price: '',
   },
   {
